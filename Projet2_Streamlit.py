@@ -12,7 +12,7 @@ layout="wide")
 
 
 
-df_film = pd.read_csv("C:\\Users\\sylva\\OneDrive\\Documents\\Wild Code School\\Projet_2\\Datasets Nettoyés\\df_actu.csv")
+df_film = pd.read_csv("C:\\Users\\sylva\\OneDrive\\Documents\\Wild Code School\\Projet_2\\Datasets Nettoyés\\df_film.csv")
 df_intervenants_f = pd.read_csv("C:\\Users\\sylva\\OneDrive\\Documents\\Wild Code School\\Projet_2\\Datasets Nettoyés\\df_intervenant_f (1).csv", sep=",")
 
 def card_custom(titre, image_url,tmdb,width = "150px"):
