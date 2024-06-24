@@ -1,0 +1,6 @@
+pandas
+requests
+streamlit
+sklearn 
+random
+streamlit_card
